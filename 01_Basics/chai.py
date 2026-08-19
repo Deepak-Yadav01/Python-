@@ -8,3 +8,5 @@ from importlib import reload
 reload(hello)
 
 print(hello.one)
+
+# NOTE:JB BHI HM KISI FILE KO IMPORT KRTE H, TO IMPORT KI HUYI FILE EXICUTE HO JATI H
