@@ -1,0 +1,15 @@
+num = 10
+
+if num == 10:
+    print("Number is 10")
+
+# and, or, not
+age = 25
+salary = 30000
+
+if age >= 18 and salary >= 25000:
+    print("Eligible")
+
+    
+if age >= 18 or salary >= 50000:
+    print("Eligible")    
